@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/developer3/Desktop/yuan/android/MyForcast2/app/build/intermediates/exploded-aar/com.android.support/design/22.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="fc63b820d54c8a27a3a614bdd93920e0076581c2">
+        <dex dex="/Users/developer3/Desktop/yuan/android/MyForcast2/app/build/intermediates/pre-dexed/debug/classes-f2e155e8c104bf6cf55fe2cf1429974678e4a270.jar" />
+    </item>
+    <item
+        jar="/Users/developer3/.gradle/caches/modules-2/files-2.1/com.goebl/david-webb/1.2.0/d561fd54b8161ef561c66fced81f291ab0d4643c/david-webb-1.2.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="d561fd54b8161ef561c66fced81f291ab0d4643c">
+        <dex dex="/Users/developer3/Desktop/yuan/android/MyForcast2/app/build/intermediates/pre-dexed/debug/david-webb-1.2.0-d0ed703a90b7198a5dc30993335732cc05f22210.jar" />
+    </item>
+
+</items>
